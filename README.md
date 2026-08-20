@@ -6,7 +6,7 @@ background in React, Node, and Express to go with it.
 
 Computer Science graduate of the Lebanese University, currently a mobile developer intern at
 Oreyeon in Beirut. Continuing at the Lebanese University with the M2 in **Data Science for Risk
-Analysis**, starting October 2026.
+Analysis**.
 
 ---
 

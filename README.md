@@ -1,34 +1,14 @@
 # Ali Omar
 
-**Android developer (Java / Kotlin).** I build apps that do their work on the device — local
-persistence with Room, background jobs, media pipelines, offline maps — and I have a full-stack
-background in React, Node, and Express to go with it.
+I'm a master's student in Data Science for Risk Analysis at Lebanese University, where I earned my computer science degree. I have a strong foundation in software development and machine learning. My recent projects focus on testing how models and search systems behave on real datasets.
 
-Computer Science graduate of the Lebanese University, currently a mobile developer intern at
-Oreyeon in Beirut. Continuing at the Lebanese University with the M2 in **Data Science for Risk
-Analysis**.
+## Selected projects
 
----
+| Project | What I worked on |
+| --- | --- |
+| [Conditional hybrid retrieval](https://github.com/aliomar139/rag-research) | With my coauthors, compared when BM25 can handle a query on its own and when neural retrieval improves recall. |
+| [Cardiovascular disease label prediction](https://github.com/aliomar139/cardiovascular-disease-prediction) | Compared five classifiers using a fixed train/test split and group-aware validation. The repository includes the code, data preparation, and results. |
+| [DBLP research platform](https://github.com/aliomar139/DBLP_Project) | Built a system for working with DBLP publication data. |
+| [KDownloader](https://github.com/aliomar139/KDownloader) | Built an Android app that selects media formats and manages downloads on the device. |
 
-## Selected work
-
-| Project | What it does | Built with |
-| --- | --- | --- |
-| **[KDownloader](https://github.com/aliomar139/KDownloader)** | On-device media downloader for Android. Format selection, foreground-service downloads, MP3 conversion, MediaStore storage, searchable history. | Java 17, yt-dlp, FFmpeg, Room, Material 3 |
-| **[FollowLens](https://github.com/aliomar139/FollowLens)** | Follower tracker that diffs each scan against the last and keeps an append-only change log. All-or-nothing scans, daily background work, 110 unit tests. | Java 17, OkHttp, Room, WorkManager |
-| **[PropertyFinder (MERN)](https://github.com/aliomar139/PropertyFinder-MERN)** | Real-estate platform rebuilt from a PHP/MySQL app: JWT auth, listings with photo upload, favorites, reports, owner verification, admin dashboard. | React 18, Vite, Express, MongoDB |
-| **[Planify](https://github.com/aliomar139/Planify-Mobile-Productivity-Application)** | Task manager with a calendar view, built on Room, LiveData, and a ViewModel-backed MVVM layer. | Kotlin, Room, Navigation |
-
-## Tech
-
-**Mobile** &nbsp; Java · Kotlin · Android SDK · Room · SQLite · WorkManager · MVVM · Material 3 · Mapbox
-
-**Web** &nbsp; JavaScript (ES6+) · React · Node.js · Express · REST APIs · HTML · CSS
-
-**Data** &nbsp; MongoDB · MySQL · schema design
-
-**Tooling** &nbsp; Git · Gradle · Docker · Linux · JUnit · Robolectric
-
-## Contact
-
-[aliyomar630@gmail.com](mailto:aliyomar630@gmail.com) &nbsp;·&nbsp; open to Android and full-stack roles, internships, and collaboration.
+[Email me](mailto:aliyomar630@gmail.com) about data science, machine learning, or software projects.

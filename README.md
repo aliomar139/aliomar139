@@ -1,6 +1,6 @@
 # Ali Omar
 
-I?m a computer science graduate and a master?s student in Data Science for Risk Analysis at Lebanese University. My background is in software development and machine learning. My recent work covers hybrid search and the design of reproducible model comparisons.
+I?m a computer science graduate and a Master's student in Data Science for Risk Analysis at Lebanese University. My background is in software development and machine learning. My recent work covers hybrid search and the design of reproducible model comparisons.
 
 ## Selected projects
 
